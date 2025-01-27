@@ -55,7 +55,7 @@
 &kp LEFT_ARROW  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &mt LEFT_SHIFT INTERNATIONAL_5  &lt 1 SPACE  &mt LEFT_CONTROL INTERNATIONAL_4    &kp BACKSPACE        &lt 2 ENTER                             &kp RIGHT_ARROW
             >;
 
-            sensor-bindings = <&inc_dec_kp A B>;
+            sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
         };
 
         layer_1 {
